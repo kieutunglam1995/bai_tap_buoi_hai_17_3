@@ -1,0 +1,52 @@
+/* button{
+    background: aqua;
+    border-radius: 5px;
+    border: 1px solid aliceblue;
+}
+.name{
+    color: brown;
+}
+table{
+    border-collapse: collapse;
+
+}
+.mau{
+    background-color: azure;
+} */
+/* table{
+    border-collapse: collapse   ;
+}
+.mau{
+    background-color: rgb(179, 25, 61);
+} */
+/* .div0{
+   text-align: center;
+}
+.div1{
+    background-color: coral;
+    color: aliceblue;
+}
+.theP{
+    color: aqua;
+}
+.div2{
+    color: coral;
+} */
+table{
+    border: 1px solid black;
+    background-repeat: no-repeat;
+    border-collapse: collapse;
+}
+.trang{
+background-color: aliceblue;
+}
+.den{
+background-color: black;
+}
+td{
+    width: 20px;
+    height: 20px;
+}
+.ven{
+    background-color: darkgoldenrod;
+}
